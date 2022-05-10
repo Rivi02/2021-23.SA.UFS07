@@ -1,4 +1,4 @@
- name: Deploy on Surge.sh
+name: Deploy on Surge.sh
 on:
   push:
     tags:
