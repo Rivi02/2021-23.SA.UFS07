@@ -6,8 +6,8 @@ on:
   push:
     branches:
       - '**'
-    # tags-ignore:
-      # - v**
+    tags-ignore:
+      - v**
   workflow_call:
 >>>>>>> 6ae632d... feat: updates
 jobs:
