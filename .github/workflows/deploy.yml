@@ -22,6 +22,6 @@ jobs:
           cat dist/CHANGELOG.md
       - name: Deploy on Surge.sh
         env:
-          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN  }}
-          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN  }}
+           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN  }}
+           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN  }}
         run: npx -yes surge ./dist dry-band.surge.sh
