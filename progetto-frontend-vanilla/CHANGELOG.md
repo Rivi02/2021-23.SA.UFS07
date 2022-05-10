@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/Rivi02/2021-23.SA.UFS07/compare/v1.3.1...v1.4.0) (2022-05-10)
+
+
+### Features
+
+* deploy updated ([846e560](https://github.com/Rivi02/2021-23.SA.UFS07/commit/846e560632950cfde894228f0d66fa00ce5aa2fe))
+
 ### [1.3.1](https://github.com/Rivi02/2021-23.SA.UFS07/compare/v1.3.0...v1.3.1) (2022-05-10)
 
 ## 1.3.0 (2022-05-10)
