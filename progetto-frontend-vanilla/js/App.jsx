@@ -1,5 +1,5 @@
 import React from "react";
-import {Button} from "test-react-verderio-1/atoms/button/Button"
+import {Button} from "test-react-verderio-1s/atoms/button/Button"
 
 const App = () => ( 
     <div>
