@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.1](https://github.com/Rivi02/2021-23.SA.UFS07/compare/v2.7.0...v2.7.1) (2022-05-31)
+
+
+### Bug Fixes
+
+* design-system package.json ([1bc8b99](https://github.com/Rivi02/2021-23.SA.UFS07/commit/1bc8b999d6557f709ca8536603fbafa31871ec6f))
+
 ## 2.7.0 (2022-05-31)
 
 
