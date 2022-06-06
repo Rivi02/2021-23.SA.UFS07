@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.7.3](https://github.com/Rivi02/2021-23.SA.UFS07/compare/v2.7.2...v2.7.3) (2022-06-06)
+
+
+### Bug Fixes
+
+* add export ([cfc4558](https://github.com/Rivi02/2021-23.SA.UFS07/commit/cfc4558ac5bc4889a65d59c9351a7fc2b6101497))
+
 ### [2.7.2](https://github.com/Rivi02/2021-23.SA.UFS07/compare/v2.7.1...v2.7.2) (2022-06-06)
 
 ### [2.7.1](https://github.com/Rivi02/2021-23.SA.UFS07/compare/v2.7.0...v2.7.1) (2022-05-31)
