@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.3](https://github.com/Rivi02/2021-23.SA.UFS07/compare/ds1.3.2...ds1.3.3) (2022-06-14)
+
+
+### Bug Fixes
+
+* versions ([37421c0](https://github.com/Rivi02/2021-23.SA.UFS07/commit/37421c0228ad46524604411923d6ea8aedff17ee))
+
 ### [1.3.2](https://github.com/Rivi02/2021-23.SA.UFS07/compare/ds1.3.1...ds1.3.2) (2022-06-14)
 
 ### [1.3.1](https://github.com/Rivi02/2021-23.SA.UFS07/compare/ds1.3.0...ds1.3.1) (2022-06-14)
