@@ -12,6 +12,6 @@ export default {
   const Template = (args) => <Text {...args} />;
   export const PlainText = Template.bind({});
   PlainText.args = {
-    //label: 'Button Reset',
+    label: 'Ciao',
     //type: 'reset',
   };
