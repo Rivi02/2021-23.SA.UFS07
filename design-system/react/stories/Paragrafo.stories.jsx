@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Text } from '../src/atoms/text/Text';
 import { Paragrafo } from '../src/molecules/paragrafo/Paragrafo';
 
 export default {
@@ -11,11 +11,11 @@ export default {
     },
   };
 
-  const Template = (args) => <Paragrafo {...args} />;
- 
+  const Template = (args) => <Paragrafo {...args}></Paragrafo>
   export const PlainParagrafo = Template.bind({});
 
   PlainParagrafo.args = {
+    children: <Text label={'label'}></Text>
     //label: 'Prova',
     //type: 'reset',
   };
