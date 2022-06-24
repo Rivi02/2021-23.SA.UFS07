@@ -35,13 +35,13 @@ function App() {
       <br/><br/>
 
 
-      <div class="flex justify-center">
-        <div class="mx-4 order-last">
-          <img src={music} size="100x100" alt="Logo" />;
+      <div class="flex justify-center bg-purple-700 md:bg-yellow-300 md:text-8xl xl:bg-green-500">
+        <div class="mx-4 order-last hidden md:block">
+          <img src={music} size="100x100" alt="Logo" />
         </div>
         <div class="mx-4 self-center">
-          <h1>Welcome to NorthBy</h1>
-          <h2>A premium in sight and sound</h2>
+          <h1 class="text-yellow-600">prova</h1>
+          <h2>Ciao ciao</h2>
           <button>Learn More</button>
         </div>
       </div>
